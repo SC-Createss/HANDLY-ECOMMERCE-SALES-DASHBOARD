@@ -14,9 +14,7 @@ The dashboard enables users to monitor sales performance, evaluate profitability
 
 ## 🖼️ Dashboard Preview
 
-> *Add your dashboard screenshot here.*
-
-![Dashboard Preview](HANDLY DASHBOARD PREVIEW.png)
+![Dashboard Preview](HANDLY_DASHBOARD_PREVIEW.png)
 
 <br>
 
